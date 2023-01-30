@@ -9,6 +9,7 @@ Train model:
 Prepare 2 command line:
 * > rasa run --enable-api
 * > cd streamlit
+
   > streamlit run rasa_streamlit.py
 --------------------------
 1. **crypto_price_streamlit.py**
